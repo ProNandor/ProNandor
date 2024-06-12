@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProNandor
+- 👋 Hi, I’m CodeQuest
 - 👀 I’m interested in ... learning and networking
 - 🌱 I’m currently learning ... coding with Python
 - 💞️ I’m looking to collaborate on ... any starter project
